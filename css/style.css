@@ -1,0 +1,66 @@
+
+.img-fluid
+{
+width: 90px;
+}
+.carousel-item
+{
+padding-top:5em;
+}
+.navbar
+{
+background-color:#f55828;
+}
+main
+{
+overflow:hidden;
+}
+input
+{
+width:100%;
+}
+textarea
+{
+width:100%;
+}
+#noscelogo,#fname,#lname,#subject,#button,#course
+{
+border-radius:4px;
+}
+#enquiry,#clients
+{
+background-color: #84eaf1;
+border-radius: 12px;
+}
+#copyright
+{
+background-color: #84eaf1;
+}
+#course
+{
+background-color:#f55828;
+color:white;
+}
+#cf,#about
+{
+border-radius: 12px;
+background-color:#88b01c;
+}
+.quote
+{
+background-color: #84eaf1;
+font-family: Times New Roman;
+border-radius:12px;
+}
+.other
+{
+border-radius:12px;
+}
+footer
+{
+background-color:#f55828;
+}
+.nav-link:hover {
+  background-color:#88b01c;
+  color: white;
+}
